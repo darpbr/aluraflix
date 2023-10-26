@@ -28,6 +28,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'aluraflix',
+    'drf_yasg',
+
 ]
 
 MIDDLEWARE = [
